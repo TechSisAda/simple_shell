@@ -1,4 +1,4 @@
-# simple_shell
+# simple_shell project
 
 ## DESCRIPTION
 A simple UNIX command interpreter created for ALX SE as a partner project with Daniel Erhunmwonsere and Adaeze Nnonyelu.
